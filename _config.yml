@@ -27,7 +27,6 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Copenhagen, Denmark"
   employer         : "University of Copenhagen"
-  uri              : "https://siar26.github.io/"
   email            : "vnm835@alumni.ku.dk" 
 
 
@@ -39,10 +38,11 @@ author:
   # Social media
   goodreads        : "siaryarmohammad"
   linkedin         : "siarym"
-  twitter          : "siar26"
-  youtube          : "@siaryarmohammad2212"
+  twitter          : "siar2612"
+  youtube          : "siaryarmohammad2212"
 
 # Publication Category - The following the list of publication categories and their headings
+orcid              : "s"
 publication_category:
   books:
     title: 'Books'
