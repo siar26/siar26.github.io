@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Siar Yar Mohammad"
-  pronouns         : "he/him"
+  pronouns         : "He/Him"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Copenhagen, Denmark"
   employer         : "University of Copenhagen"
-  uri              : # URL
+  uri              : "https://siar26.github.io/"
   email            : "vnm835@alumni.ku.dk" 
 
 
@@ -37,11 +37,9 @@ author:
   stackoverflow    : "Siar"   
 
   # Social media
-  facebook         : # Username
   goodreads        : "siaryarmohammad"
   linkedin         : "siarym"
   twitter          : "siar26"
-  wikipedia        : # Username
   youtube          : "@siaryarmohammad2212"
 
 # Publication Category - The following the list of publication categories and their headings
