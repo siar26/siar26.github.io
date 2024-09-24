@@ -30,18 +30,18 @@ author:
   email            : "vnm835@alumni.ku.dk" 
 
   # Academic websites
-  orcid            : "http://orcid.org/0009-0008-3591-9822"
+  # orcid            : "http://orcid.org/0009-0008-3591-9822"
 
   # Repositories and software development
   github           : "siar26"
   kaggle           : "siaryarmohammad"  
-  stackoverflow    : "27414663/siar"   
+  # stackoverflow    : "27414663/siar"   
 
   # Social media
-  goodreads        : "siaryarmohammad"
+  # goodreads        : "siaryarmohammad"
   linkedin         : "siarym"
-  twitter          : "siar2612"
-  youtube          : "siaryarmohammad2212"
+  # twitter          : "siar2612"
+  # youtube          : "siaryarmohammad2212"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
