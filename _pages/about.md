@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Games:
+<!-- Games:
 Chess.com
 PokerStars.com
-Sportsbetting
+Sportsbetting -->
