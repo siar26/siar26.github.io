@@ -7,3 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+Games:
+Chess.com
+PokerStars.com
+Sportsbetting
